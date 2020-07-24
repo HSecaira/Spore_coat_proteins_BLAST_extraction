@@ -8,7 +8,7 @@ Files provided:
   - Bacillus_extract_genes_scripts.ipynb
   - result_Bacillus_xiamenensis_VV3.xml (BLAST results)
   - cotE_aligned.fas
-  -Genbank file of species used: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP017786.1 
+  - Genbank file of species used: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP017786.1 
   
   
 ## Steps to extract genes from pBLAST results for each genome/species
