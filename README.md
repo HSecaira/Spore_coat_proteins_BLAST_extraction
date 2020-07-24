@@ -23,7 +23,7 @@ Files provided:
 3. Change headers id from extracted genes (optional but helpful in future steps)
     - In this step, we can change each sequence id, from protein acession id to gene name. 
     
-## Steps to creat a database of the same gene from multiple genomes/species (used for "Selection methods")
+## Steps to create a database of the same gene from multiple genomes/species (used for "Selection methods")
 
 1. Extract the same gene from multiple files (i.e. species)
     - Let suppose we extracted all the coat proteins for each member of the Pumilus group. Now, in this step, we will create a single file that contain only one gene from all the members of the group.
